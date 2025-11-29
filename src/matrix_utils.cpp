@@ -1,5 +1,6 @@
 #include "matrix_utils.h"
 #include <cstdlib>
+#include <iostream>
 
 // Adds Matrix B to Matrix A and returns the resulting matrix
 Matrix add(Matrix matrixA, Matrix matrixB)
@@ -118,4 +119,20 @@ Matrix createRandomMatrix(int n)
         }
     }
     return matrix;
+}
+
+void printMatrix(Matrix matrix)
+{
+    int matrixSize = matrix.size();
+
+    for (int i = 0; i < matrixSize; i++)
+    {
+        for (int j = 0; j < matrixSize; j++)
+        {
+            std::cout << matrix[i][j] << " ";
+        }
+        std::cout << std::endl;
+    }
+
+    std::cout << std::endl; 
 }

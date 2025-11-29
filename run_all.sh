@@ -6,5 +6,6 @@ cmake -DCMAKE_BUILD_TYPE=Release ..
 cmake --build . --config Release -j8
 
 ctest
+./bin/main
 ./bin/validate
-./bin/run_experiments
+./bin/experiments
