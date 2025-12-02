@@ -1,0 +1,880 @@
+------------------------------------------ Normal selected: matrix size:2------------------------------------------
+Time taken: 9.16e-07 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1261568  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 217  page reclaims
+                   4  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   7  involuntary context switches
+            10046833  instructions retired
+             4240590  cycles elapsed
+              901824  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:2Base case size:2------------------------------------------
+Time taken: 2.25e-06 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1261568  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 220  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   3  involuntary context switches
+             9342428  instructions retired
+             4077507  cycles elapsed
+              901824  peak memory footprint
+------------------------------------------ Normal selected: matrix size:4------------------------------------------
+Time taken: 1.375e-06 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1261568  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 222  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+             9373519  instructions retired
+             4311189  cycles elapsed
+              901824  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:4Base case size:2------------------------------------------
+Time taken: 2.6708e-05 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1294336  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 222  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   3  involuntary context switches
+             9555631  instructions retired
+             3696319  cycles elapsed
+              901824  peak memory footprint
+------------------------------------------ Normal selected: matrix size:8------------------------------------------
+Time taken: 1.958e-06 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1261568  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 220  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+             9316026  instructions retired
+             3717121  cycles elapsed
+              901824  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:8Base case size:2------------------------------------------
+Time taken: 0.000119334 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1392640  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 228  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   3  involuntary context switches
+            10935608  instructions retired
+             4168994  cycles elapsed
+             1000128  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:8Base case size:4------------------------------------------
+Time taken: 4.0625e-05 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1343488  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 225  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+             9757180  instructions retired
+             4119467  cycles elapsed
+              950976  peak memory footprint
+------------------------------------------ Normal selected: matrix size:16------------------------------------------
+Time taken: 5.667e-06 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1294336  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 222  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+             9366140  instructions retired
+             3793065  cycles elapsed
+              901824  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:16Base case size:2------------------------------------------
+Time taken: 0.000609583 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1490944  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 234  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+            19734706  instructions retired
+             5463058  cycles elapsed
+             1098432  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:16Base case size:4------------------------------------------
+Time taken: 0.000176875 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1441792  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 231  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+            11838716  instructions retired
+             4136578  cycles elapsed
+             1049280  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:16Base case size:8------------------------------------------
+Time taken: 5.0917e-05 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1359872  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 226  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+             9959560  instructions retired
+             4145709  cycles elapsed
+              967360  peak memory footprint
+------------------------------------------ Normal selected: matrix size:64------------------------------------------
+Time taken: 0.000137417 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1359872  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 226  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   3  involuntary context switches
+            12003100  instructions retired
+             4628436  cycles elapsed
+              967360  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:64Base case size:2------------------------------------------
+Time taken: 0.020461 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.02 real         0.02 user         0.00 sys
+             2080768  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 270  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   7  involuntary context switches
+           404239736  instructions retired
+            67834855  cycles elapsed
+             1688256  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:64Base case size:4------------------------------------------
+Time taken: 0.00572071 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1949696  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 262  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+           114763225  instructions retired
+            22421427  cycles elapsed
+             1557184  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:64Base case size:8------------------------------------------
+Time taken: 0.00180475 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1818624  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 254  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+            41837719  instructions retired
+             9669970  cycles elapsed
+             1426112  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:64Base case size:16------------------------------------------
+Time taken: 0.000565083 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1687552  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 248  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+            19700798  instructions retired
+             6072611  cycles elapsed
+             1295040  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:64Base case size:32------------------------------------------
+Time taken: 0.000239583 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1589248  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 240  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+            13790653  instructions retired
+             5869111  cycles elapsed
+             1196736  peak memory footprint
+------------------------------------------ Normal selected: matrix size:128------------------------------------------
+Time taken: 0.000983583 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             1638400  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 243  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   4  involuntary context switches
+            28067849  instructions retired
+             7685483  cycles elapsed
+             1245888  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:128Base case size:2------------------------------------------
+Time taken: 0.180335 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.18 real         0.13 user         0.00 sys
+             2998272  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 326  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                 202  involuntary context switches
+          2631869095  instructions retired
+           429776846  cycles elapsed
+             2605760  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:128Base case size:4------------------------------------------
+Time taken: 0.0339194 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.03 real         0.03 user         0.00 sys
+             2965504  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 324  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   7  involuntary context switches
+           665925982  instructions retired
+           112633925  cycles elapsed
+             2572992  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:128Base case size:8------------------------------------------
+Time taken: 0.0109793 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.01 real         0.01 user         0.00 sys
+             2768896  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 312  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   5  involuntary context switches
+           209206784  instructions retired
+            39392054  cycles elapsed
+             2376384  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:128Base case size:16------------------------------------------
+Time taken: 0.00351133 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             2621440  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 305  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  11  involuntary context switches
+            78004460  instructions retired
+            16415809  cycles elapsed
+             2228928  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:128Base case size:32------------------------------------------
+Time taken: 0.001676 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             2490368  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 295  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   3  involuntary context switches
+            41342748  instructions retired
+            10188618  cycles elapsed
+             2097856  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:128Base case size:64------------------------------------------
+Time taken: 0.00120067 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.00 real         0.00 user         0.00 sys
+             2310144  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 284  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   3  involuntary context switches
+            30602727  instructions retired
+             8303256  cycles elapsed
+             1917632  peak memory footprint
+------------------------------------------ Normal selected: matrix size:512------------------------------------------
+Time taken: 0.102616 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.10 real         0.10 user         0.00 sys
+             6602752  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 546  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   7  involuntary context switches
+          1111834652  instructions retired
+           344036001  cycles elapsed
+             6210240  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:4------------------------------------------
+Time taken: 1.56411 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        1.57 real         1.56 user         0.00 sys
+            18989056  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1302  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  50  involuntary context switches
+         30693431123  instructions retired
+          4926842763  cycles elapsed
+            18612992  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:8------------------------------------------
+Time taken: 0.491417 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.49 real         0.49 user         0.00 sys
+            18792448  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1285  page reclaims
+                   6  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  35  involuntary context switches
+          9038631810  instructions retired
+          1560390043  cycles elapsed
+            18416384  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:16------------------------------------------
+Time taken: 0.160473 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.16 real         0.16 user         0.00 sys
+            18612224  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1279  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  19  involuntary context switches
+          3066222176  instructions retired
+           520774759  cycles elapsed
+            18236160  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:32------------------------------------------
+Time taken: 0.0806982 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.08 real         0.08 user         0.00 sys
+            18448384  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1265  page reclaims
+                   5  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  20  involuntary context switches
+          1473883107  instructions retired
+           267429505  cycles elapsed
+            18072320  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:64------------------------------------------
+Time taken: 0.0624223 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.06 real         0.06 user         0.00 sys
+            18251776  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1257  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  12  involuntary context switches
+          1049287966  instructions retired
+           213049495  cycles elapsed
+            17875712  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:128------------------------------------------
+Time taken: 0.0570185 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.06 real         0.06 user         0.00 sys
+            17727488  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1225  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   5  involuntary context switches
+           974131503  instructions retired
+           195966739  cycles elapsed
+            17351424  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:512Base case size:256------------------------------------------
+Time taken: 0.09433 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.10 real         0.09 user         0.00 sys
+            16105472  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1126  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   6  involuntary context switches
+          1015221832  instructions retired
+           313146723  cycles elapsed
+            15729408  peak memory footprint
+------------------------------------------ Normal selected: matrix size:1024------------------------------------------
+Time taken: 1.1335 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        1.15 real         1.14 user         0.00 sys
+            22511616  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                1517  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  45  involuntary context switches
+          8717051840  instructions retired
+          3641035253  cycles elapsed
+            22119168  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:8------------------------------------------
+Time taken: 3.6192 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        3.63 real         3.52 user         0.03 sys
+            68763648  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4341  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                7283  involuntary context switches
+         63116232301  instructions retired
+         10998973528  cycles elapsed
+            54559616  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:16------------------------------------------
+Time taken: 1.11435 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        1.13 real         1.11 user         0.01 sys
+            68632576  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4327  page reclaims
+                   7  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  47  involuntary context switches
+         21300815398  instructions retired
+          3551461247  cycles elapsed
+            54412160  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:32------------------------------------------
+Time taken: 0.556005 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.57 real         0.56 user         0.01 sys
+            68468736  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4319  page reclaims
+                   5  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  50  involuntary context switches
+         10216471015  instructions retired
+          1799938568  cycles elapsed
+            54215552  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:64------------------------------------------
+Time taken: 0.4414 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.45 real         0.44 user         0.01 sys
+            68272128  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4311  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                   7  involuntary context switches
+          7275162523  instructions retired
+          1442291208  cycles elapsed
+            54018944  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:128------------------------------------------
+Time taken: 0.409811 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.42 real         0.41 user         0.01 sys
+            67747840  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4279  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  20  involuntary context switches
+          6767287012  instructions retired
+          1340148366  cycles elapsed
+            53494656  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:256------------------------------------------
+Time taken: 0.689296 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.70 real         0.69 user         0.01 sys
+            66093056  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4178  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  70  involuntary context switches
+          7060864329  instructions retired
+          2218126570  cycles elapsed
+            51856256  peak memory footprint
+------------------------------------------ Strassen selected: Matrix size:1024Base case size:512------------------------------------------
+Time taken: 0.747907 seconds
+------------------------------------------------------------------------------------------------------------------------------
+
+        0.76 real         0.75 user         0.00 sys
+            59785216  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                3793  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+                  38  involuntary context switches
+          7766493972  instructions retired
+          2406423710  cycles elapsed
+            59409280  peak memory footprint
