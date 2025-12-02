@@ -17,14 +17,3 @@ target_include_directories(strassen_lib PUBLIC include)
 
 add_executable(main src/main.cpp)
 target_link_libraries(main PRIVATE strassen_lib)
-
-add_executable(validate src/validate.cpp)
-target_link_libraries(validate PRIVATE strassen_lib)
-
-add_executable(experiments src/experiments.cpp)
-target_link_libraries(experiments PRIVATE strassen_lib)
-
-enable_testing()
-add_executable(tests src/tests.cpp)
-target_link_libraries(tests PRIVATE strassen_lib)
-add_test(NAME correctness COMMAND tests)

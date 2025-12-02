@@ -1,7 +1,6 @@
 #include "standard.h"
 #include "matrix_utils.h"
 
-// Multiplys two matrices: Matrix A and Matrix B and returns the resulting matrix
 Matrix standardMultiply(Matrix matrixA, Matrix matrixB)
 {
     int matrixSize = matrixA.size();

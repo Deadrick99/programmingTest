@@ -107,6 +107,7 @@ Matrix combine(Matrix matrix11, Matrix matrix12, Matrix matrix21, Matrix matrix2
     }
     return returnMatrix;
 }
+
 //Creates a matrix of size n containing random values from 1 - 100
 Matrix createRandomMatrix(int n)
 {
@@ -121,6 +122,7 @@ Matrix createRandomMatrix(int n)
     return matrix;
 }
 
+//Prints the matrix
 void printMatrix(Matrix matrix)
 {
     int matrixSize = matrix.size();
